@@ -1,0 +1,15 @@
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.csproj.AssemblyReference.cache
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.AssemblyInfoInputs.cache
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.AssemblyInfo.cs
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.csproj.CoreCompileInputs.cache
+C:\Users\maxx5\Desktop\Interface class\bin\Debug\net6.0\Interface class.exe
+C:\Users\maxx5\Desktop\Interface class\bin\Debug\net6.0\Interface class.deps.json
+C:\Users\maxx5\Desktop\Interface class\bin\Debug\net6.0\Interface class.runtimeconfig.json
+C:\Users\maxx5\Desktop\Interface class\bin\Debug\net6.0\Interface class.dll
+C:\Users\maxx5\Desktop\Interface class\bin\Debug\net6.0\Interface class.pdb
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.dll
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\refint\Interface class.dll
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.pdb
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\Interface class.genruntimeconfig.cache
+C:\Users\maxx5\Desktop\Interface class\obj\Debug\net6.0\ref\Interface class.dll
